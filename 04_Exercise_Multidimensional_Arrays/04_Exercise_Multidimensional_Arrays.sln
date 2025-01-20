@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Diagonal_Diffrence", "01_Diagonal_Diffrence\01_Diagonal_Diffrence.csproj", "{5DFBA061-C647-4182-8068-1308C60CE2DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Squares_In_Matrix", "02_Squares_In_Matrix\02_Squares_In_Matrix.csproj", "{B8447323-DA83-4C9F-971B-9D77927964DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Maximal_Sum", "03_Maximal_Sum\03_Maximal_Sum.csproj", "{55FF7429-B796-4C66-B398-18193A70023B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Matrix_Shuffling", "04_Matrix_Shuffling\04_Matrix_Shuffling.csproj", "{4D211072-6BDD-4914-A633-5AEE1E9F8393}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Snake_Moves", "05_Snake_Moves\05_Snake_Moves.csproj", "{EE29333B-FEF5-4875-88A3-E46312912E05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Jagged_Array_Manipulator", "06_Jagged_Array_Manipulator\06_Jagged_Array_Manipulator.csproj", "{FCDDED69-24F2-49AA-AF9F-E30F4654884C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Knight_Game", "07_Knight_Game\07_Knight_Game.csproj", "{D052B331-B0D3-411F-A5A6-53B3C16E50ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DFBA061-C647-4182-8068-1308C60CE2DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DFBA061-C647-4182-8068-1308C60CE2DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DFBA061-C647-4182-8068-1308C60CE2DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DFBA061-C647-4182-8068-1308C60CE2DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8447323-DA83-4C9F-971B-9D77927964DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8447323-DA83-4C9F-971B-9D77927964DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8447323-DA83-4C9F-971B-9D77927964DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8447323-DA83-4C9F-971B-9D77927964DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55FF7429-B796-4C66-B398-18193A70023B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55FF7429-B796-4C66-B398-18193A70023B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55FF7429-B796-4C66-B398-18193A70023B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55FF7429-B796-4C66-B398-18193A70023B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D211072-6BDD-4914-A633-5AEE1E9F8393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D211072-6BDD-4914-A633-5AEE1E9F8393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D211072-6BDD-4914-A633-5AEE1E9F8393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D211072-6BDD-4914-A633-5AEE1E9F8393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE29333B-FEF5-4875-88A3-E46312912E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE29333B-FEF5-4875-88A3-E46312912E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE29333B-FEF5-4875-88A3-E46312912E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE29333B-FEF5-4875-88A3-E46312912E05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCDDED69-24F2-49AA-AF9F-E30F4654884C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCDDED69-24F2-49AA-AF9F-E30F4654884C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCDDED69-24F2-49AA-AF9F-E30F4654884C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCDDED69-24F2-49AA-AF9F-E30F4654884C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D052B331-B0D3-411F-A5A6-53B3C16E50ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D052B331-B0D3-411F-A5A6-53B3C16E50ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D052B331-B0D3-411F-A5A6-53B3C16E50ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D052B331-B0D3-411F-A5A6-53B3C16E50ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
